@@ -124,7 +124,6 @@ After running `npm start`, the output should look like this:
 
 ![React App Output](output.png)
 
-*(Make sure to add a screenshot of your actual output and save it as `output.png` in the repository.)*
 
 ---
 ## **4. Uploading to GitHub**
